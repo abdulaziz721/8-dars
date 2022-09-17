@@ -1,0 +1,85 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.body {
+    height: 1995px;
+    margin: auto;
+    background: whitesmoke;
+    width: 360px
+}
+.box {
+    padding-left: 19px;
+    padding-right: 15px;
+    width: 360px;
+    height: 56.5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+.logo {
+    height: 43px;
+    width: 47px;
+}
+.text {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.text1 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    color: #ff9846;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.soat {
+    color: #a4acad;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+.pizza {
+    position: relative;    
+    width: 162px;
+    height: 157px;
+    border-radius: 5px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+.text2 {
+position: absolute;
+bottom: 120px;
+left: 11px;
+font-family: 'DIN Pro';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+display: flex;
+align-items: center;
+color: #fff;
+
+}
+.set {
+    position: relative;
+    width: 158px;
+    height: 157px;
+    border-radius: 5px;
+    margin-left: 187px;
+    margin-bottom: 200px;
+}
+.text3 {
+    position: absolute;
+
+}

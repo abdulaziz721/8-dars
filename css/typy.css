@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+}
+.fon  {
+    width: 100%;
+}
+
+.raunded {
+  position: absolute;
+  border-radius: 100px;
+  width: 180px;
+  z-index: 10;
+  transition: 1s;
+}
+.raunded:hover {
+  width: 400px;
+  border-radius: 100px;
+  z-index: 100;
+}
+.man1 {
+    position: absolute;
+    width: 160px;
+    border-radius: 50%;
+    top: 420px;
+    left: 50px;
+}
+.man2 {
+    position: absolute;
+    width: 180px;
+    border-radius: 50%;
+    right: 213px;
+    bottom: 135px;
+}
+.top {
+    position: relative;
+}
+.man2 {
+    position: absolute;
+    width: 180px;
+    border-radius: 50%;
+    right: 213px;
+    top: 135px;
+}
